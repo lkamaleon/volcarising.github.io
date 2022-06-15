@@ -107,7 +107,7 @@ a, button, img, input, span {
 }
 
 a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 .btn:focus {
@@ -284,7 +284,7 @@ figure {
 
 .body__bg {
   background-size: cover;
-  background-color: #140e38;
+  background-color: #1b0606;
 }
 
 .btn.btn-link {
@@ -359,7 +359,7 @@ figure {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  background: #b154f0;
+  background: #f05454;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -467,7 +467,7 @@ figure {
   }
 }
 .section_title h2 span {
-  color: #b154f0;
+  color: #f05454;
 }
 .section_title p {
   font-size: 18px;
@@ -556,7 +556,7 @@ figure {
 }
 
 .bluewood-bg {
-  background: #354b65;
+  background: #653535;
 }
 
 /*-- 
@@ -793,7 +793,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #000000;
 }
 .offcanvas_main_menu li span.menu-expand:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 .offcanvas_main_menu li a {
   font-size: 15px;
@@ -806,7 +806,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #000000;
 }
 .offcanvas_main_menu li a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 .offcanvas_main_menu li ul.sub-menu {
   padding-left: 20px;
@@ -832,7 +832,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
           transform: scale(1.3) rotate(180deg);
 }
 .canvas_close a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 .canvas_open {
@@ -864,7 +864,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   background: none;
 }
 .canvas_open button:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 /*header css heer*/
@@ -873,7 +873,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   z-index: 99;
   width: 100%;
   top: 0;
-  background: rgba(20, 14, 56, 0.9);
+  background: rgba(56, 14, 14, 0.9);
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11);
           box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11);
   -webkit-animation-name: fadeInDown;
@@ -1069,7 +1069,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #000000;
 }
 .main_menu nav > ul > li ul.sub_menu li a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 /* 06. footer css here */
@@ -1221,7 +1221,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   line-height: 33px;
 }
 .footer_contact_desc p a {
-  color: #b154f0;
+  color: #f05454;
 }
 @media only screen and (max-width: 767px) {
   .footer_contact_desc p {
@@ -1282,7 +1282,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .footer_contact_info_list span {
-  color: #b154f0;
+  color: #f05454;
   margin-bottom: 9px;
 }
 @media only screen and (max-width: 575px) {
@@ -1291,7 +1291,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .footer_contact_info_list p a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 .footer_contact_info_icon {
@@ -1304,7 +1304,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 .footer_contact_info_icon span {
   font-size: 36px;
-  color: #b154f0;
+  color: #f05454;
 }
 
 .footer_menu ul li a {
@@ -1313,7 +1313,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   display: inline-block;
 }
 .footer_menu ul li a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 @media only screen and (max-width: 767px) {
   .footer_menu ul li a {
@@ -1357,7 +1357,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .footer_bottom {
   padding: 20px 0;
-  background: #140e38;
+  background: #380e0e;
 }
 @media only screen and (max-width: 767px) {
   .footer_bottom {
@@ -1394,10 +1394,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   font-weight: 600;
 }
 .copyright_right p a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 .copyright_right p i {
-  color: #b154f0;
+  color: #f05454;
   font-size: 16px;
 }
 
@@ -1435,7 +1435,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #aaa6b9;
 }
 .footer_bottom_link_menu ul li a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 .footer_bottom_inner {
@@ -1490,7 +1490,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #ffffff;
 }
 .newsletter_desc p a {
-  color: #b154f0;
+  color: #f05454;
 }
 @media only screen and (max-width: 767px) {
   .newsletter_desc p {
@@ -1528,7 +1528,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   height: 40px;
   width: 60px;
   font-size: 30px;
-  background: #b154f0;
+  background: #f05454;
   color: #ffffff;
   border-radius: 15px;
 }
@@ -1668,7 +1668,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .hero_content h1 {
   margin-bottom: 41px;
   font-family: "Metal Mania", cursive;
-  text-shadow: 3px 3px 0px #b154f0;
+  text-shadow: 3px 3px 0px #f05454;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .hero_content h1 {
@@ -1865,7 +1865,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .gaming_world_text h3 a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .gaming_world_text p {
@@ -2138,11 +2138,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .upcoming_gaming_text h3 a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 .upcoming_gaming_text span {
   font-size: 14px;
-  color: #b154f0;
+  color: #f05454;
 }
 
 .upcoming_gaming_thumb {
@@ -2367,7 +2367,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: #df4c21;
 }
 .counterup_text h2.color4 {
-  color: #b154f0;
+  color: #f05454;
 }
 .counterup_text span {
   font-size: 18px;
@@ -2707,10 +2707,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .gaming_form_list .nice-select:hover {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 .gaming_form_list .nice-select.open {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 .gaming_form_list .nice-select::after {
   border-bottom: 2px solid #fff;
@@ -2763,7 +2763,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   }
 }
 .gaming_form_search:hover {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 .gaming_form_search input::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
@@ -2805,7 +2805,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
           transform: translatey(-50%);
 }
 .gaming_form_search button:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 section.error_section {
@@ -2930,7 +2930,7 @@ section.error_section {
   content: "";
   width: 38%;
   height: 10px;
-  background: #b154f0;
+  background: #f05454;
   right: 0;
   top: 185px;
 }
@@ -3163,7 +3163,7 @@ section.error_section {
   }
 }
 .testimonial_author span {
-  color: #b154f0;
+  color: #f05454;
 }
 
 .breadcrumbs_bg {
@@ -3222,7 +3222,7 @@ section.error_section {
   font-size: 90px;
   line-height: 90px;
   font-family: "Metal Mania", cursive;
-  text-shadow: 3px 3px 0px #b154f0;
+  text-shadow: 3px 3px 0px #f05454;
   margin-bottom: 25px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3256,7 +3256,7 @@ section.error_section {
 .breadcrumbs_text ul li {
   font-size: 17px;
   font-weight: bold;
-  color: #b154f0;
+  color: #f05454;
   text-transform: uppercase;
   margin-right: 8px;
 }
@@ -3273,7 +3273,7 @@ section.error_section {
   color: #ffffff;
 }
 .breadcrumbs_text ul li a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 .breadcrumbs_text ul li span {
   color: #ffffff;
@@ -3350,7 +3350,7 @@ section.error_section {
   font-size: 22px;
   line-height: 32px;
   font-weight: bold;
-  color: #b154f0;
+  color: #f05454;
   position: relative;
   padding-left: 98px;
   margin-bottom: 25px;
@@ -3360,7 +3360,7 @@ section.error_section {
   content: "";
   width: 68px;
   height: 5px;
-  background: #b154f0;
+  background: #f05454;
   left: 0;
   top: 50%;
   -webkit-transform: translatey(-50%);
@@ -3573,7 +3573,7 @@ section.error_section {
   }
 }
 .gamer_team_text span {
-  color: #b154f0;
+  color: #f05454;
 }
 @media only screen and (max-width: 767px) {
   .gamer_team_text span {
@@ -3768,7 +3768,7 @@ section.error_section {
   }
 }
 .blog_content h3 a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 .blog_content > a {
   font-size: 15px;
@@ -3776,14 +3776,14 @@ section.error_section {
   padding-left: 50px;
 }
 .blog_content > a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 .blog_content > a::before {
   position: absolute;
   content: "";
   width: 30px;
   height: 2px;
-  background: #b154f0;
+  background: #f05454;
   left: 0;
   top: 50%;
   -webkit-transform: translatey(-50%);
@@ -3797,7 +3797,7 @@ section.error_section {
   font-size: 14px;
 }
 .blog_date span i {
-  color: #b154f0;
+  color: #f05454;
 }
 
 .widget_search form {
@@ -3837,7 +3837,7 @@ section.error_section {
   height: 100%;
   color: #ffffff;
   padding: 0 21px;
-  background: #b154f0;
+  background: #f05454;
   border-radius: 5px;
 }
 
@@ -3857,8 +3857,8 @@ section.error_section {
   display: block;
 }
 .widget_category.blog_widget_category ul li a:hover {
-  background: #b154f0;
-  border-color: #b154f0;
+  background: #f05454;
+  border-color: #f05454;
 }
 .widget_category.blog_widget_category ul li a i {
   margin-right: 8px;
@@ -3892,8 +3892,8 @@ section.error_section {
   color: #ffffff;
 }
 .widget_tags ul li a:hover {
-  background: #b154f0;
-  border-color: #b154f0;
+  background: #f05454;
+  border-color: #f05454;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .widget_tags ul li a {
@@ -3932,7 +3932,7 @@ section.error_section {
   margin-right: 0;
 }
 .pagination_pages ul li span {
-  border: 2px solid #b154f0;
+  border: 2px solid #f05454;
   width: 55px;
   height: 55px;
   line-height: 53px;
@@ -3966,7 +3966,7 @@ section.error_section {
   border-radius: 5px;
 }
 .pagination_pages ul li a:hover {
-  border: 2px solid #b154f0;
+  border: 2px solid #f05454;
 }
 @media only screen and (max-width: 767px) {
   .pagination_pages ul li a {
@@ -4199,7 +4199,7 @@ section.error_section {
   content: "";
   width: 4px;
   height: 4px;
-  background: #b154f0;
+  background: #f05454;
   border-radius: 50%;
   right: 0;
   top: 50%;
@@ -4365,15 +4365,15 @@ section.error_section {
   border-radius: 10px;
 }
 .blog_details_table_content ul li a:hover {
-  background: #b154f0;
-  border-color: #b154f0;
+  background: #f05454;
+  border-color: #f05454;
 }
 .blog_details_table_content ul li a:hover i {
   color: #ffffff;
 }
 .blog_details_table_content ul li a i {
   margin-right: 8px;
-  color: #b154f0;
+  color: #f05454;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
@@ -4511,8 +4511,8 @@ section.error_section {
   border-radius: 10px;
 }
 .post__social ul li a:hover {
-  background: #b154f0;
-  border-color: #b154f0;
+  background: #f05454;
+  border-color: #f05454;
 }
 @media only screen and (max-width: 767px) {
   .post__social ul li a {
@@ -4571,8 +4571,8 @@ section.error_section {
   }
 }
 .blog_like_inner > button:hover {
-  background: #b154f0;
-  border-color: #b154f0;
+  background: #f05454;
+  border-color: #f05454;
 }
 .blog_like_inner > button.next_arrow {
   right: 0;
@@ -4826,7 +4826,7 @@ section.error_section {
 .comment_list .comment_content span {
   font-size: 14px;
   line-height: 30px;
-  color: #b154f0;
+  color: #f05454;
   display: inline-block;
   text-transform: uppercase;
   margin-bottom: 10px;
@@ -4896,11 +4896,11 @@ section.error_section {
   border-radius: 10px;
 }
 .comments_form_input input:focus {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 .comments_form_input input:focus::-webkit-input-placeholder {
   color: #ffffff;
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .comments_form_input input {
@@ -4941,7 +4941,7 @@ section.error_section {
   resize: none;
 }
 .comments_form_input textarea:focus {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 .comments_form_input textarea:focus::-webkit-input-placeholder {
   color: #ffffff;
@@ -4964,7 +4964,7 @@ section.error_section {
   height: 64px;
   line-height: 60px;
   border: 0;
-  background: #b154f0;
+  background: #f05454;
   color: #fff5ec;
 }
 @media only screen and (max-width: 767px) {
@@ -5202,7 +5202,7 @@ section.error_section {
   }
 }
 .contact_info_text p a:hover {
-  color: #b154f0;
+  color: #f05454;
 }
 
 .contact_map {
@@ -5302,11 +5302,11 @@ section.error_section {
   border-radius: 10px;
 }
 .form_input input:focus {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 .form_input input:focus::-webkit-input-placeholder {
   color: #ffffff;
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .form_input input {
@@ -5357,7 +5357,7 @@ section.error_section {
   resize: none;
 }
 .form_textarea textarea:focus {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 .form_textarea textarea:focus::-webkit-input-placeholder {
   color: #ffffff;
@@ -5551,7 +5551,7 @@ section.error_section {
   font-size: 18px;
   line-height: 35px;
   font-weight: 600;
-  color: #b154f0;
+  color: #f05454;
   text-transform: uppercase;
   margin-bottom: 14px;
 }
@@ -5619,7 +5619,7 @@ section.error_section {
   font-size: 18px;
   line-height: 35px;
   font-weight: 600;
-  color: #b154f0;
+  color: #f05454;
   margin-bottom: 24px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5782,7 +5782,7 @@ section.error_section {
   font-size: 18px;
   line-height: 35px;
   font-weight: 600;
-  color: #b154f0;
+  color: #f05454;
   margin-bottom: 12px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -5859,7 +5859,7 @@ section.error_section {
   margin-left: 0;
 }
 .team_players_inner .slick-dots li.slick-active button {
-  background: #b154f0;
+  background: #f05454;
 }
 @media only screen and (max-width: 767px) {
   .team_players_inner .slick-dots li {
@@ -5979,7 +5979,7 @@ section.error_section {
   font-size: 18px;
   line-height: 35px;
   font-weight: 600;
-  color: #b154f0;
+  color: #f05454;
   margin-bottom: 24px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -6039,7 +6039,7 @@ section.error_section {
   margin-bottom: 23px;
 }
 .game_details_content h2.color2 {
-  color: #b154f0;
+  color: #f05454;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .game_details_content h2 {
@@ -6392,7 +6392,7 @@ section.error_section {
   padding: 0 25px;
 }
 .question_search input:focus {
-  border-color: #b154f0;
+  border-color: #f05454;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .question_search input {
@@ -6420,7 +6420,7 @@ section.error_section {
   border: 0;
   width: 65px;
   height: 65px;
-  background: #b154f0;
+  background: #f05454;
   border-radius: 8px;
   line-height: 65px;
 }
@@ -6529,7 +6529,7 @@ section.error_section {
 }
 .faq_question_list .accordion-button:not(.collapsed)::after {
   content: "";
-  background: #b154f0;
+  background: #f05454;
 }
 .faq_question_list .accordion-collapse {
   border: 0;
@@ -6884,7 +6884,7 @@ section.error_section {
   display: block;
   font-size: 22px;
   font-weight: 700;
-  color: #b154f0;
+  color: #f05454;
   margin-bottom: 15px;
   position: relative;
   padding-left: 96px;
@@ -6899,7 +6899,7 @@ section.error_section {
   content: "";
   width: 66px;
   height: 6px;
-  background: #b154f0;
+  background: #f05454;
   top: 50%;
   left: 0;
   -webkit-transform: translateY(-50%);
